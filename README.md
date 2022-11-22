@@ -11,11 +11,8 @@ I enjoy learning new things and sharing my knowledge with others.I am passionate
 - In my free time, I enjoy reading, watching movies, listening to music and watching Formula 1.
 
 ### Connect with me:
-
-<!-- Linked in icon to https://www.linkedin.com/in/annastacia-mumbua -->
-
-[<img align="left" alt="Annastacia Mumbua | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
+    
+    [<img align="left" alt="annastacia-mumbua | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
 
 
 
