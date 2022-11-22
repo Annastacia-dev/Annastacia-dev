@@ -12,7 +12,7 @@ I enjoy learning new things and sharing my knowledge with others.I am passionate
 
 ### Connect with me:
     
-    [<img align="left" alt="annastacia-mumbua | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
+<img href="https://www.linkedin.com/in/annastacia-mumbua" align="left" alt="annastacia-mumbua | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 
 
 
