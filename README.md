@@ -8,7 +8,7 @@
 
 I enjoy learning new things and sharing my knowledge with others.I am passionate about building scalable and maintainable software solutions.
 
-In my free time, I enjoy reading, watching movies, listening to music and watching Formula 1.
+In my free time, I enjoy listening to music, watching movies, nature walks and watching Formula 1.
 
 ### Connect with me:
     
