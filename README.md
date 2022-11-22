@@ -19,19 +19,6 @@ In my free time, I enjoy reading, watching movies, listening to music and watchi
     href="https://www.linkedin.com/in/annastacia-mumbua-0b1b3b1b3/"
 />
 
-<!-- Behance -->
-
-<img
-    src="https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=Behance&logoColor=white"
-    alt="Behance"
-    height="20"
-    href="https://www.behance.net/annastamumbua"
-
-
-
-
-
-
 
 ### Languages
 
@@ -52,7 +39,9 @@ In my free time, I enjoy reading, watching movies, listening to music and watchi
 
 <img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" />
 
-#### I also have experience with the following technologies:
+
+
+I also have experience with the following technologies:
 
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 
