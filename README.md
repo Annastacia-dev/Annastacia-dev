@@ -22,7 +22,7 @@ In my free time, I enjoy reading, watching movies, listening to music and watchi
 
 ### Languages
 
-#### I like creating fullstack applications using the following technologies:
+#### I like creating fullstack applications using:
 
 
 
@@ -43,7 +43,7 @@ In my free time, I enjoy reading, watching movies, listening to music and watchi
 
 <br />
 
-#### I also have experience with the following technologies:
+#### I also have experience with:
 
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 
