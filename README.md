@@ -8,11 +8,16 @@
 
 I enjoy learning new things and sharing my knowledge with others.I am passionate about building scalable and maintainable software solutions.
 
-- In my free time, I enjoy reading, watching movies, listening to music and watching Formula 1.
+In my free time, I enjoy reading, watching movies, listening to music and watching Formula 1.
 
 ### Connect with me:
     
-<img href="https://www.linkedin.com/in/annastacia-mumbua" align="left" alt="annastacia-mumbua | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img
+    src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"
+    alt="LinkedIn"
+    height="20"
+    href="https://www.linkedin.com/in/annastacia-mumbua-0b1b3b1b3/"
+/>
 
 
 
