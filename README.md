@@ -39,10 +39,11 @@ In my free time, I enjoy reading, watching movies, listening to music and watchi
 
 <img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" />
 
+<!-- Create on a new line -->
 
-<p>
-I also have experience with the following technologies:
-</p>
+<br />
+
+#### I also have experience with the following technologies:
 
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 
