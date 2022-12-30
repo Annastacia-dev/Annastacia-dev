@@ -4,7 +4,7 @@
 
 ---
 
-## I'm a FullStack Software Developer and a Tech Enthusiast
+## I'm a FullStack Software Developer and a Technical Writer
 
 I enjoy learning new things and sharing my knowledge with others.I am passionate about building scalable and maintainable software solutions.
 
