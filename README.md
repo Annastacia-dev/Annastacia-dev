@@ -83,7 +83,8 @@ Check out my [blog](https://dev.to/anne46)
 <img align="left" alt="SQLite3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
 
 
-###
+<br/>
+<hr/>
 [![wakatime](https://wakatime.com/badge/user/37c99f27-dee9-4b2b-96e1-4fe54e91875f.svg)](https://wakatime.com/@37c99f27-dee9-4b2b-96e1-4fe54e91875f)
 
 
