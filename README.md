@@ -19,6 +19,8 @@ In my free time, I enjoy listening to music, watching movies, nature walks and w
     href="https://www.linkedin.com/in/annastacia-mumbua-0b1b3b1b3/"
 />
 
+Check out my [blog](https://dev.to/anne46)
+
 
 ### Languages
 
