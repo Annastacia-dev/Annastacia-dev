@@ -85,6 +85,7 @@ Check out my [blog](https://dev.to/anne46)
 
 <br/>
 <hr/>
-[![wakatime](https://wakatime.com/badge/user/37c99f27-dee9-4b2b-96e1-4fe54e91875f.svg)](https://wakatime.com/@37c99f27-dee9-4b2b-96e1-4fe54e91875f)
+
+<a href="https://wakatime.com/@37c99f27-dee9-4b2b-96e1-4fe54e91875f"><img src="https://wakatime.com/badge/user/37c99f27-dee9-4b2b-96e1-4fe54e91875f.svg" alt="Total time coded since Oct 5 2022" /></a>
 
 
