@@ -13,11 +13,15 @@
 </a>
 <!-- Dev.to -->
 <a href="https://dev.to/anne46">
-  <img align="left" alt="Annastacia's Dev.to" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devto/devto-original.svg" />
+  <img align="left" alt="Annastacia's Dev.to" width="22px" src="https://skillicons.dev/icons?i=devto" />
 </a>
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,javascript,html5,css3,bootstrap,react,redux,materialui,git,github,vscode,linux,ubuntu,mysql,postgresql,heroku,netlify,vercel,figma,adobexd,adobephotoshop)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rails,ruby,js,react,nextjs,redux,jquery,postgres,sqlite,firebase,postman,css,saa,tailwind,bootstrap,git,github,heroku,figma,ai,xd,ps" />
+  </a>
+</p>
 
 
 ## Stats
