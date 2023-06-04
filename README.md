@@ -8,11 +8,12 @@
 
 ## Connect with me:
 <!-- Linked In -->
-<div align="left" style="display: flex;  gap: 1rem;">
+<div align="left">
   <a href="https://www.linkedin.com/in/annastacia-mumbua/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img width='22px' src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <!-- Dev.to -->
+  <br/>
   <a href="https://dev.to/anne46">
     <img src="https://skillicons.dev/icons?i=devto" />
   </a>
