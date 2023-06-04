@@ -10,12 +10,12 @@
 <!-- Linked In -->
 <div align="left">
   <a href="https://www.linkedin.com/in/annastacia-mumbua/">
-    <img width='22px' src="https://skillicons.dev/icons?i=linkedin" />
+    <img width='24px' src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <!-- Dev.to -->
-  <br/>
+  <span style="margin-left: 10px;"></span>
   <a href="https://dev.to/anne46">
-    <img src="https://skillicons.dev/icons?i=devto" />
+    <img width='22px' src="https://skillicons.dev/icons?i=devto" />
   </a>
 </div>
 
