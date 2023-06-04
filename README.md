@@ -9,17 +9,17 @@
 ## Connect with me:
 <!-- Linked In -->
 <a href="https://www.linkedin.com/in/annastacia-mumbua/">
-  <img align="left" alt="Annastacia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+  <img width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
 <!-- Dev.to -->
 <a href="https://dev.to/anne46">
-  <img align="left" alt="Annastacia's Dev.to" width="22px" src="https://skillicons.dev/icons?i=devto" />
+  <img width="22px" src="https://skillicons.dev/icons?i=devto" />
 </a>
 
 ## Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rails,ruby,js,react,nextjs,redux,jquery,postgres,sqlite,firebase,postman,css,saa,tailwind,bootstrap,git,github,heroku,figma,ai,xd,ps" />
+    <img width="22px" src="https://skillicons.dev/icons?i=rails,ruby,js,react,nextjs,redux,jquery,postgres,sqlite,firebase,postman,css,saa,tailwind,bootstrap,git,github,heroku,figma,ai,xd,ps" />
   </a>
 </p>
 
