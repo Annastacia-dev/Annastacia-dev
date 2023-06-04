@@ -9,11 +9,11 @@
 ## Connect with me:
 <!-- Linked In -->
 <a href="https://www.linkedin.com/in/annastacia-mumbua/">
-  <img width="22px" src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <!-- Dev.to -->
 <a href="https://dev.to/anne46">
-  <img width="22px" src="https://skillicons.dev/icons?i=devto" />
+  <img src="https://skillicons.dev/icons?i=devto" />
 </a>
 
 ## Languages and Tools:
