@@ -1,25 +1,21 @@
+👋 Hello! I'm Annastacia Mumbua, a FullStack Software Developer and a Technical Writer.
 
+🚀 I enjoy developing software solutions, learning new technologies and sharing my knowledge with others.
 
-# Hi there, I'm Annastacia Mumbua 👋
+🌱 Currently, I'm focused on expanding my knowledge in Containerization,GraphQL and Microservices.
 
----
-
-## I'm a FullStack Software Developer and a Technical Writer
-
-I enjoy learning new things and sharing my knowledge with others.I am passionate about building scalable and maintainable software solutions.
-
-In my free time, I enjoy listening to music, watching movies, nature walks and watching Formula 1.
+💡 In my free time, I enjoy listening to music, watching movies, nature walks and watching Formula 1.
 
 ### Connect with me:
-    
-<img
-    src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"
-    alt="LinkedIn"
-    height="20"
-    href="https://www.linkedin.com/in/annastacia-mumbua-0b1b3b1b3/"
-/>
+<!-- Linked In -->
+<a href="https://www.linkedin.com/in/annastacia-mumbua/">
+  <img align="left" alt="Annastacia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+</a>
+<!-- Dev.to -->
+<a href="https://dev.to/anne46">
+  <img align="left" alt="Annastacia's Dev.to" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devto/devto-original.svg" />
+</a>
 
-Check out my [blog](https://dev.to/anne46)
 
 
 ### Languages
