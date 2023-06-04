@@ -8,7 +8,7 @@
 
 ## Connect with me:
 <!-- Linked In -->
-<div align="center" style="display: flex; justify-content: space-between;">
+<div align="left" style="display: flex;  gap: 1rem;">
   <a href="https://www.linkedin.com/in/annastacia-mumbua/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
