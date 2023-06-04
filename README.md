@@ -15,7 +15,7 @@
   <!-- Dev.to -->
   <span style="margin-left: 10px;"></span>
   <a href="https://dev.to/anne46">
-    <img width='22px' src="https://skillicons.dev/icons?i=devto" />
+    <img width='24px' src="https://skillicons.dev/icons?i=devto" />
   </a>
 </div>
 
