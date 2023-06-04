@@ -13,13 +13,13 @@
 </a>
 <!-- Dev.to -->
 <a href="https://dev.to/anne46">
-  <img width="22px" src="https://skillicons.dev/icons?i=devto" />
+  <img src="https://skillicons.dev/icons?i=devto" />
 </a>
 
 ## Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width="22px" src="https://skillicons.dev/icons?i=rails,ruby,js,react,nextjs,redux,jquery,postgres,sqlite,firebase,postman,css,saa,tailwind,bootstrap,git,github,heroku,figma,ai,xd,ps" />
+    <img  src="https://skillicons.dev/icons?i=rails,ruby,js,react,nextjs,redux,jquery,postgres,sqlite,firebase,postman,css,saa,tailwind,bootstrap,git,github,heroku,figma,ai,xd,ps" />
   </a>
 </p>
 
