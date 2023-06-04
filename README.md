@@ -13,7 +13,7 @@
     <img width='24px' src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <!-- Dev.to -->
-  <span style="margin-left: 10px;"></span>
+  <span>&nbsp;&nbsp;</span>
   <a href="https://dev.to/anne46">
     <img width='24px' src="https://skillicons.dev/icons?i=devto" />
   </a>
