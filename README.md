@@ -8,13 +8,15 @@
 
 ## Connect with me:
 <!-- Linked In -->
-<a href="https://www.linkedin.com/in/annastacia-mumbua/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<!-- Dev.to -->
-<a href="https://dev.to/anne46">
-  <img src="https://skillicons.dev/icons?i=devto" />
-</a>
+<div align="center" style="display: flex; justify-content: space-between;">
+  <a href="https://www.linkedin.com/in/annastacia-mumbua/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <!-- Dev.to -->
+  <a href="https://dev.to/anne46">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
+</div>
 
 ## Languages and Tools:
 <p align="center">
