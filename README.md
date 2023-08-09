@@ -1,4 +1,4 @@
-👋 Hello! I'm Annastacia Mumbua, a FullStack Software Developer and a Technical Writer.
+👋 Hello! I'm Annastacia Mumbua, a FullStack Software Developer.
 
 🚀 I enjoy developing software solutions, learning new technologies and sharing my knowledge with others.
 
