@@ -2,8 +2,6 @@
 
 🚀 I enjoy developing software solutions, learning new technologies and sharing my knowledge with others.
 
-🌱 Currently, I'm focused on expanding my knowledge in Containerization,GraphQL and Microservices.
-
 💡 In my free time, I enjoy listening to music, watching movies, nature walks and watching Formula 1.
 
 ## Connect with me:
