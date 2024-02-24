@@ -1,8 +1,14 @@
-👋 Hello! I'm Annastacia Mumbua, a FullStack Software Developer.
+Web developer
 
-🚀 I enjoy developing software solutions, learning new technologies and sharing my knowledge with others.
+Currently building with Ruby on Rails and React Js.
 
-💡 In my free time, I enjoy listening to music, watching movies, nature walks and watching Formula 1.
+Learning Express Js.
+
+Aspiring cinephile.
+
+Former designer.
+
+Open to collaboration & contributions.
 
 ## Connect with me:
 <!-- Linked In -->
