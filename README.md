@@ -1,7 +1,7 @@
 <pre>💻 Web developer | Currently building with Ruby on Rails and React Js.</pre>
 <pre>✍🏿 Learning Express Js.</pre>
 <pre>🎥 Aspiring cinephile | Former designer. </pre>
-<pre>Open to collaboration & contributions. </pre>
+<pre>Open to collaborations & contributing to projects. </pre>
 
 ## Connect with me:
 <!-- Linked In -->
