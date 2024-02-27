@@ -17,6 +17,6 @@ a<pre>💻 Web developer | Currently building with Ruby on Rails and React Js.</
 </div>
 
 ## Languages and Tools:
-<img  src="https://skillicons.dev/icons?i=rails,ruby,js,ts,react,nextjs,redux,jquery,postgres,sqlite,firebase,postman,css,sass,tailwind,bootstrap,git,github,heroku,figma,ai,xd,ps" style="width: 300px" />
+<img  src="https://skillicons.dev/icons?i=rails,ruby,js,ts,react,nextjs,redux,jquery,postgres,sqlite,firebase,postman,css,sass,tailwind,bootstrap,git,github,heroku,figma,ai,xd,ps" style="width: 400px" />
 
 
