@@ -7,7 +7,7 @@
 <!-- Linked In -->
 <div align="left">
   <a href="https://www.linkedin.com/in/annastacia-mumbua/">
-    <img width='24px' src="https://skillicons.dev/icons?i=linkedin" />
+    <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/linkedin.png" alt="linkedin"/>
   </a>
   <!-- Dev.to -->
   <span>&nbsp;&nbsp;</span>
@@ -17,6 +17,6 @@
 </div>
 
 ## Languages and Tools:
-<img  src="https://skillicons.dev/icons?i=rails,ruby,js,ts,react,nextjs,redux,jquery,postgres,sqlite,firebase,postman,css,sass,tailwind,bootstrap,git,github,heroku,figma,ai,xd,ps" style="width: 200px" />
+<img  src="https://skillicons.dev/icons?i=rails,ruby,js,ts,react,nextjs,redux,jquery,postgres,sqlite,firebase,postman,css,sass,tailwind,bootstrap,git,github,heroku,figma,ai,xd,ps" style="width: 300px" />
 
 
