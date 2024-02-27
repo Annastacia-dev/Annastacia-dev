@@ -17,8 +17,6 @@
 </div>
 
 ## Languages and Tools:
-<p align="center">
-    <img  src="https://skillicons.dev/icons?i=rails,ruby,js,ts,react,nextjs,redux,jquery,postgres,sqlite,firebase,postman,css,sass,tailwind,bootstrap,git,github,heroku,figma,ai,xd,ps" style="width: 100px" />
-</p>
+<img  src="https://skillicons.dev/icons?i=rails,ruby,js,ts,react,nextjs,redux,jquery,postgres,sqlite,firebase,postman,css,sass,tailwind,bootstrap,git,github,heroku,figma,ai,xd,ps" style="width: 200px" />
 
 
