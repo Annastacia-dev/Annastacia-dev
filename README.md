@@ -1,11 +1,11 @@
 
-
+## Know me
 <pre>💻 Web developer | Currently building with Ruby on Rails and React Js.</pre>
 <pre>✍🏿 Learning Express Js.</pre>
 <pre>🎥 Aspiring cinephile | Former designer. </pre>
 <pre>Open to collaborations & contributing to projects. </pre>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2ail5t4ywp1v51epioxhlk2zy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=2ail5t4ywp1v51epioxhlk2zy&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2ail5t4ywp1v51epioxhlk2zy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=2ail5t4ywp1v51epioxhlk2zy&redirect=true)
 
 
 ## Connect with me
