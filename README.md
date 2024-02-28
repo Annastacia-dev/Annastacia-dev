@@ -1,7 +1,15 @@
-<pre>💻 Web developer | Currently building with Ruby on Rails and React Js.</pre>
-<pre>✍🏿 Learning Express Js.</pre>
-<pre>🎥 Aspiring cinephile | Former designer. </pre>
-<pre>Open to collaborations & contributing to projects. </pre>
+
+<div style='display: flex; gap: 20px;'>
+  <div>
+    <pre>💻 Web developer | Currently building with Ruby on Rails and React Js.</pre>
+    <pre>✍🏿 Learning Express Js.</pre>
+    <pre>🎥 Aspiring cinephile | Former designer. </pre>
+    <pre>Open to collaborations & contributing to projects. </pre>
+  </div>
+  <div>
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2ail5t4ywp1v51epioxhlk2zy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=2ail5t4ywp1v51epioxhlk2zy&redirect=true)
+  </div>
+</div>
 
 ## Connect with me
 <div align="left" style="display:flex; gap: 15px;">
