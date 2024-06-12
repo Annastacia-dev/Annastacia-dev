@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/annastacia-mumbua/" style="text-decoration: none;">
     <img width="45" height="45" src="https://img.icons8.com/3d-fluency/45/linkedin.png" alt="linkedin"/>
   </a>
-  <a href="https://dev.to/anne46" style="text-decoration: none;">
-    <img width="45" height="45" src="https://img.icons8.com/3d-fluency/45/3d-fluency-nook.png" alt="3d-fluency-nook"/>
-  </a>
   <a href='https:://annastacia.dev>' style="text-decoration: none;">
     <img width="45" height="45" src="https://img.icons8.com/3d-fluency/45/link.png" alt="link"/>
   </a>
