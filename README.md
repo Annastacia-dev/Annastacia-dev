@@ -1,4 +1,3 @@
-
 ## Know me
 <pre>💻 Web developer | Currently building with Ruby on Rails and React Js.</pre>
 <pre>🎥 Aspiring cinephile | Former designer. </pre>
