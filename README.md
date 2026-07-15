@@ -24,14 +24,6 @@ I build full-stack solutions that span internal tooling, e-commerce integrations
 
 ### 🎵 Off the Clock
 
-Coastal Kenya trips (Mombasa/Diani), cooking, coloring & art, and a lot of Noah Kahan.
-
-<p align="center">
-  <img src="https://share.icloud.com/photos/082cokq1LXAYEu46rCr7KEf3w" width="250" alt="Coastal Kenya trip photo 1" />
-  <img src="https://share.icloud.com/photos/02eZ6PrmuuWzG3bnFiwHT0vrA" width="250" alt="Coastal Kenya trip photo 2" />
-  <img src="PASTE_ICLOUD_LINK_3" width="250" alt="Coastal Kenya trip photo 3" />
-</p>
-
----
+Solo trips, hiking, cooking, coloring & art, and a lot of Noah Kahan.
 
 📫 Find me on [Upwork](https://www.upwork.com/freelancers/~0187366df4fa36aeb4?mp_source=share) or reach out here on GitHub.
